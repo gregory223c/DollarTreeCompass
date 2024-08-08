@@ -25,11 +25,3 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/DollarTreeCompass.git
 cd DollarTreeCompass
 npm install
 npm start
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
-
-

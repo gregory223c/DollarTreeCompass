@@ -1,0 +1,9 @@
+.ExpenseList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.ExpenseList li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}

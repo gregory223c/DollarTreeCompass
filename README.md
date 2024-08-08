@@ -38,10 +38,20 @@ To get started with DollarTreeCompass, follow these steps:
 2. **Navigate to the Project Directory**:
    ```bash
    cd DollarTreeCompass
-
 3. **Install Dependencies**:
    ```bash
    npm install
 4. **Run the Development Server**:
    ```bash
    npm start
+
+## Contribution Guidelines
+- **Code of Conduct**: Please read and follow our Code of Conduct.
+- **Issue Reporting**: If you find a bug or have a feature request, please open an issue.
+- **Coding Standards**: Ensure your code adheres to the project’s coding standards and conventions.
+- **Testing**: Write tests for your code and ensure all existing tests pass.
+
+## Getting Help
+If you need any help or have questions, feel free to reach out by opening an issue or contacting the maintainers directly.
+
+Thank you for contributing to DollarTreeCompass!

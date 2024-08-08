@@ -20,8 +20,9 @@ DollarTreeCompass is a web application that allows users to visualize their spen
 
 To get started with DollarTreeCompass, clone the repository, install dependencies, and run the development server.
 
+
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/DollarTreeCompass.git
+git clone https://github.com/gregory223c/DollarTreeCompass.git
 cd DollarTreeCompass
 npm install
 npm start

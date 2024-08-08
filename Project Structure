@@ -1,0 +1,12 @@
+DollarTreeCompass/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   └── Receipt.js
+│   ├── App.css
+│   ├── App.js
+│   ├── index.js
+├── .gitignore
+├── package.json
+├── README.md

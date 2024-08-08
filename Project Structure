@@ -1,0 +1,19 @@
+DollarTreeCompass/
+├── public/
+│   ├── index.html
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Receipt.js
+│   │   ├── ExpenseForm.js
+│   │   └── ExpenseList.js
+│   ├── App.css
+│   ├── App.js
+│   ├── index.css
+│   ├── index.js
+├── .gitignore
+├── package.json
+├── README.md
+├── LICENSE
+└── CONTRIBUTING.md

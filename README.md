@@ -1,6 +1,6 @@
 # DollarTreeCompass
 
-DollarTreeCompass is a web application designed to help users keep track of their daily expenses and generate detailed receipts. Inspired by popular apps like Receiptify, DollarTreeCompass focuses on simplicity and efficiency, making it an ideal tool for individuals who want to manage their finances more effectively. 
+DollarTreeCompass is a web application designed to help users keep track of their daily expenses and generate detailed receipts. DollarTreeCompass focuses on simplicity and efficiency, making it an ideal tool for individuals who want to manage their finances more effectively. 
 
 With a user-friendly interface, DollarTreeCompass allows you to input your expenses, categorize them, and view a comprehensive list of all your transactions. You can easily add, edit, and delete expenses, making it simple to maintain an up-to-date record of your spending habits. The application also includes a receipt generation feature, which compiles your expenses into a formatted receipt that you can download or print for your records.
 

@@ -38,7 +38,7 @@ To get started with DollarTreeCompass, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/DollarTreeCompass.git
+   git clone https://github.com/gregory223c/DollarTreeCompass.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd DollarTreeCompass

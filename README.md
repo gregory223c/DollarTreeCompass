@@ -1,16 +1,17 @@
 # DollarTreeCompass
 
-DollarTreeCompass is a cutting-edge web application designed to help users visualize and manage their spending habits. By generating detailed, receipt-like summaries based on financial data, DollarTreeCompass provides a unique and intuitive way to track expenses and analyze spending patterns. Inspired by the popular Receiptify app, DollarTreeCompass aims to make financial management both engaging and insightful.
+DollarTreeCompass is a web application designed to help users keep track of their daily expenses and generate detailed receipts. Inspired by popular apps like Receiptify, DollarTreeCompass focuses on simplicity and efficiency, making it an ideal tool for individuals who want to manage their finances more effectively. 
+
+With a user-friendly interface, DollarTreeCompass allows you to input your expenses, categorize them, and view a comprehensive list of all your transactions. You can easily add, edit, and delete expenses, making it simple to maintain an up-to-date record of your spending habits. The application also includes a receipt generation feature, which compiles your expenses into a formatted receipt that you can download or print for your records.
+
+Whether you’re trying to stick to a budget, save for a specific goal, or simply want to understand where your money is going, DollarTreeCompass provides the tools you need to take control of your finances. The app is built with modern web technologies, ensuring a smooth and responsive experience across all devices.
 
 ## Features
-
-- **Visual Receipts**: Generate visually appealing receipts that summarize your expenditures in a clear and concise manner.
-- **Customizable Themes**: Personalize the look and feel of your receipts to match your style preferences.
-- **Detailed Analytics**: Gain deep insights into your spending habits with comprehensive breakdowns and visualizations.
-- **User-Friendly Interface**: Enjoy a clean, modern design that makes navigating the app a breeze.
-- **Secure Data Handling**: Rest assured that your financial data is handled with the utmost security and privacy.
-- **Cross-Platform Compatibility**: Access DollarTreeCompass on any device, including desktops, tablets, and smartphones.
-- **Integration with Financial APIs**: Seamlessly connect with financial data providers like Plaid to import your transaction data.
+- **Add, edit, and delete expenses**: Keep your expense records accurate and up-to-date.
+- **View a list of all expenses**: Get a clear overview of your spending with a categorized list.
+- **Generate receipts**: Compile your expenses into a printable or downloadable receipt.
+- **Responsive design**: Accessible and functional on both desktop and mobile devices.
+- **Simple and intuitive interface**: User-friendly design that makes financial tracking easy.
 
 ## Technologies Used
 
